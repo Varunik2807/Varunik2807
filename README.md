@@ -1,0 +1,7 @@
+- 👋 Hello,I am Varuni,
+- 👀 I’m interested in exploring Open sources to grow my Career,
+- 🌱 I’m currently learning Web Development, Python and working on DSA,
+- 💞 I’m looking to collaborate with other developers and organizations contributing to open source,
+- 📫 How to reach me: You may follow me on [Linkedin](https://www.linkedin.com/in/varuni-kulkarni-7a4822209/) 
+- 😄 Pronouns: she/her
+- ⚡ Fun fact: Artistic things attracts me and like they are  in my veins to make me more creative and innovate new things which can drive people crazy
